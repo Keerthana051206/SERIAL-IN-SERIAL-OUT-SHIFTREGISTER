@@ -35,6 +35,7 @@ Developed by: Keerthana.C
 RegisterNumber:212224220047
 
 */
+```
  module Verilog1(clk, sin, q);
  input clk;
  input sin;
@@ -46,6 +47,7 @@ RegisterNumber:212224220047
  q[1] <= q[0];
  q[2] <= q[1];
  q[3] <= q[2];
+```
 
 
 **RTL LOGIC FOR SISO Shift Register**
